@@ -11,3 +11,4 @@ document.write("<div>7장 제어할 태그 선택</div>");
 
 // document.querySelector('선택자')
 // => 선택자에는 태그, class, id 가 올 수 있다.
+// => class 는 .~~   id는 #~~
